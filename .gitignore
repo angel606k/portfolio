@@ -1,1 +1,10 @@
 .idea/
+
+assets/vendor/apexcharts
+assets/vendor/boxicons
+assets/vendor/chart.js
+assets/vendor/php-email-form
+assets/vendor/quill
+assets/vendor/remixicon
+assets/vendor/simple-datatables
+assets/vendor/tinymce
